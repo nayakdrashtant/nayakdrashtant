@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drashtantnayak
 - 👀 I’m interested in Full Stack Development
-- 🌱 Always learning to increase skills
+- 🌱 Always learning to improve my skills
 - 📫 How to reach me: drashtant391993@gmail.com
 
 <!---
