@@ -1,0 +1,31 @@
+<svg width="1400" height="220" viewBox="0 0 1400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="220" rx="24" fill="#0C1727"/>
+
+  <rect x="28" y="28" width="310" height="164" rx="20" fill="#101D31" stroke="#1B314E"/>
+  <circle cx="92" cy="82" r="28" fill="#1F8A70" opacity="0.25"/>
+  <text x="78" y="92" font-size="30" font-family="Arial, Helvetica, sans-serif">🛠️</text>
+  <text x="138" y="84" fill="#F8FAFC" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700">DIY</text>
+  <text x="138" y="114" fill="#AABCD0" font-size="16" font-family="Arial, Helvetica, sans-serif">Hands-on projects, fixes,</text>
+  <text x="138" y="136" fill="#AABCD0" font-size="16" font-family="Arial, Helvetica, sans-serif">and learning by building.</text>
+
+  <rect x="365" y="28" width="310" height="164" rx="20" fill="#101D31" stroke="#1B314E"/>
+  <circle cx="429" cy="82" r="28" fill="#4ADE80" opacity="0.25"/>
+  <text x="415" y="92" font-size="30" font-family="Arial, Helvetica, sans-serif">🌿</text>
+  <text x="475" y="84" fill="#F8FAFC" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700">Gardening</text>
+  <text x="475" y="114" fill="#AABCD0" font-size="16" font-family="Arial, Helvetica, sans-serif">A creative and relaxing</text>
+  <text x="475" y="136" fill="#AABCD0" font-size="16" font-family="Arial, Helvetica, sans-serif">break from screen time.</text>
+
+  <rect x="702" y="28" width="310" height="164" rx="20" fill="#101D31" stroke="#1B314E"/>
+  <circle cx="766" cy="82" r="28" fill="#22D3EE" opacity="0.25"/>
+  <text x="752" y="92" font-size="30" font-family="Arial, Helvetica, sans-serif">🥾</text>
+  <text x="812" y="84" fill="#F8FAFC" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700">Hiking</text>
+  <text x="812" y="114" fill="#AABCD0" font-size="16" font-family="Arial, Helvetica, sans-serif">Nature, movement, and</text>
+  <text x="812" y="136" fill="#AABCD0" font-size="16" font-family="Arial, Helvetica, sans-serif">time to reset and think.</text>
+
+  <rect x="1039" y="28" width="333" height="164" rx="20" fill="#101D31" stroke="#1B314E"/>
+  <circle cx="1103" cy="82" r="28" fill="#F59E0B" opacity="0.25"/>
+  <text x="1089" y="92" font-size="30" font-family="Arial, Helvetica, sans-serif">🏠</text>
+  <text x="1149" y="84" fill="#F8FAFC" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700">Home Projects</text>
+  <text x="1149" y="114" fill="#AABCD0" font-size="16" font-family="Arial, Helvetica, sans-serif">Improving spaces and</text>
+  <text x="1149" y="136" fill="#AABCD0" font-size="16" font-family="Arial, Helvetica, sans-serif">enjoying practical creativity.</text>
+</svg>

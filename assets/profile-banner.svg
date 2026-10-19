@@ -1,34 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
-<title id="title">Drashtant Nayak, senior full stack developer</title>
-<desc id="desc">Dark navy developer dashboard banner with cyan highlights and a layered software architecture diagram.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1321"/><stop offset="1" stop-color="#12263c"/></linearGradient>
-  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
-  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#29435a" stroke-width=".7" opacity=".42"/></pattern>
-</defs>
-<rect width="1200" height="350" rx="18" fill="url(#bg)"/>
-<rect width="1200" height="350" rx="18" fill="url(#grid)"/>
-<path d="M28 25H1172" stroke="#3d5d73" stroke-opacity=".55"/>
-<circle cx="39" cy="25" r="4" fill="#fb7185"/><circle cx="56" cy="25" r="4" fill="#fbbf24"/><circle cx="73" cy="25" r="4" fill="#34d399"/>
-<text x="99" y="30" fill="#95aabc" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.7">ENGINEERING PROFILE / 2026</text>
-<rect x="54" y="75" width="52" height="52" rx="12" fill="#102a3c" stroke="#22d3ee" stroke-opacity=".8"/>
-<text x="65" y="109" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="bold">DN</text>
-<text x="54" y="171" fill="#f5f9fc" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="bold">Drashtant Nayak</text>
-<text x="57" y="207" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="19">Senior Full Stack Developer</text>
-<text x="57" y="244" fill="#c4d2df" font-family="Arial, Helvetica, sans-serif" font-size="16">Laravel  ·  Vue / Nuxt  ·  SaaS  ·  Cloud  ·  AI</text>
-<rect x="55" y="270" width="342" height="38" rx="8" fill="#123044" stroke="#28556c"/>
-<circle cx="75" cy="289" r="5" fill="#34d399"/>
-<text x="90" y="295" fill="#d6f7fa" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing=".6">BUILDING FOR PRODUCTION</text>
-<rect x="744" y="68" width="405" height="235" rx="14" fill="#0a1928" stroke="#345269"/>
-<text x="772" y="97" fill="#91a9bf" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.6">PRODUCTION_ARCHITECTURE.V1</text>
-<g fill="#102e40" stroke="#316074">
-<rect x="770" y="119" width="352" height="33" rx="7"/><rect x="770" y="162" width="352" height="33" rx="7"/><rect x="770" y="205" width="352" height="33" rx="7"/>
-</g>
-<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#d7e5ef">
-<text x="787" y="140">PRODUCT UI</text><text x="1032" y="140" fill="#67e8f9">VUE / NUXT</text>
-<text x="787" y="183">DOMAIN LOGIC</text><text x="1030" y="183" fill="#67e8f9">LARAVEL</text>
-<text x="787" y="226">DATA + CLOUD</text><text x="1010" y="226" fill="#67e8f9">SQL / AWS</text>
-<text x="788" y="274" fill="#7dd3a7">● SYSTEM STATUS: HEALTHY</text>
-</g>
-<path d="M945 152v10m0 33v10" stroke="#22d3ee" stroke-width="2" stroke-dasharray="3 3"/>
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111E"/>
+      <stop offset="0.5" stop-color="#0E1F38"/>
+      <stop offset="1" stop-color="#081B2F"/>
+    </linearGradient>
+    <linearGradient id="accent1" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="50" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
+
+  <circle cx="1260" cy="92" r="150" fill="#1DD3B0" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="1450" cy="270" r="120" fill="#7C3AED" opacity="0.15" filter="url(#blur)"/>
+  <circle cx="250" cy="-40" r="170" fill="#0EA5E9" opacity="0.15" filter="url(#blur)"/>
+
+  <path d="M0 320C180 270 310 272 480 306C648 339 746 372 940 352C1140 330 1324 243 1600 292V420H0V320Z" fill="#0B1626" opacity="0.65"/>
+
+  <g opacity="0.15">
+    <path d="M920 80H1510" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M920 116H1510" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M920 152H1510" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M920 188H1510" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M920 224H1510" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M920 260H1510" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M920 296H1510" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M1000 50V330" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M1110 50V330" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M1220 50V330" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M1330 50V330" stroke="#9FB8D0" stroke-width="1"/>
+    <path d="M1440 50V330" stroke="#9FB8D0" stroke-width="1"/>
+  </g>
+
+  <rect x="66" y="66" width="710" height="288" rx="24" fill="#0C1A2D" stroke="#1B314E"/>
+  <rect x="96" y="96" width="132" height="12" rx="6" fill="url(#accent1)"/>
+  <text x="96" y="150" fill="#F8FAFC" font-size="48" font-family="Arial, Helvetica, sans-serif" font-weight="700">Drashtant Nayak</text>
+  <text x="96" y="190" fill="#C7D2E0" font-size="22" font-family="Arial, Helvetica, sans-serif">Senior Full Stack Developer</text>
+  <text x="96" y="228" fill="#97AABC" font-size="20" font-family="Arial, Helvetica, sans-serif">Backend • Frontend • DevOps • AI Workflows</text>
+
+  <rect x="96" y="255" width="158" height="38" rx="19" fill="#10243D" stroke="#1A3D61"/>
+  <text x="122" y="279" fill="#67E8F9" font-size="17" font-family="Arial, Helvetica, sans-serif">Laravel &amp; PHP</text>
+
+  <rect x="268" y="255" width="140" height="38" rx="19" fill="#10243D" stroke="#1A3D61"/>
+  <text x="304" y="279" fill="#67E8F9" font-size="17" font-family="Arial, Helvetica, sans-serif">Vue / Nuxt</text>
+
+  <rect x="422" y="255" width="126" height="38" rx="19" fill="#10243D" stroke="#1A3D61"/>
+  <text x="460" y="279" fill="#67E8F9" font-size="17" font-family="Arial, Helvetica, sans-serif">AWS / DevOps</text>
+
+  <rect x="562" y="255" width="108" height="38" rx="19" fill="#10243D" stroke="#1A3D61"/>
+  <text x="597" y="279" fill="#67E8F9" font-size="17" font-family="Arial, Helvetica, sans-serif">OpenAI</text>
+
+  <text x="96" y="325" fill="#A9BBD0" font-size="17" font-family="Arial, Helvetica, sans-serif">Building secure, scalable, client-focused products from concept to production.</text>
+
+  <g>
+    <rect x="956" y="84" width="214" height="112" rx="20" fill="#0E2238" stroke="#214267"/>
+    <text x="988" y="122" fill="#F8FAFC" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700">Full Stack</text>
+    <text x="988" y="152" fill="#A6BED3" font-size="16" font-family="Arial, Helvetica, sans-serif">Frontend + Backend</text>
+    <text x="988" y="174" fill="#A6BED3" font-size="16" font-family="Arial, Helvetica, sans-serif">UI + APIs + Data</text>
+  </g>
+
+  <g>
+    <rect x="1196" y="84" width="214" height="112" rx="20" fill="#0E2238" stroke="#214267"/>
+    <text x="1228" y="122" fill="#F8FAFC" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700">AI &amp; Automation</text>
+    <text x="1228" y="152" fill="#A6BED3" font-size="16" font-family="Arial, Helvetica, sans-serif">OpenAI, Claude,</text>
+    <text x="1228" y="174" fill="#A6BED3" font-size="16" font-family="Arial, Helvetica, sans-serif">Bedrock workflows</text>
+  </g>
+
+  <g>
+    <rect x="956" y="216" width="214" height="112" rx="20" fill="#0E2238" stroke="#214267"/>
+    <text x="988" y="254" fill="#F8FAFC" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700">DevOps</text>
+    <text x="988" y="284" fill="#A6BED3" font-size="16" font-family="Arial, Helvetica, sans-serif">AWS, EC2, RDS,</text>
+    <text x="988" y="306" fill="#A6BED3" font-size="16" font-family="Arial, Helvetica, sans-serif">Forge, deployment</text>
+  </g>
+
+  <g>
+    <rect x="1196" y="216" width="214" height="112" rx="20" fill="#0E2238" stroke="#214267"/>
+    <text x="1228" y="254" fill="#F8FAFC" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700">Problem Solving</text>
+    <text x="1228" y="284" fill="#A6BED3" font-size="16" font-family="Arial, Helvetica, sans-serif">Debugging, client</text>
+    <text x="1228" y="306" fill="#A6BED3" font-size="16" font-family="Arial, Helvetica, sans-serif">delivery, deadlines</text>
+  </g>
 </svg>
